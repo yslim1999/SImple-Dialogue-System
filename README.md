@@ -1,2 +1,3 @@
 # SImple-Dialogue-System
-A simple dialogue system in Unity
+A simple dialogue system in Unity.
+Written in Visual Studios.
